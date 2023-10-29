@@ -1,0 +1,53 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# ===================================== #
+# Visual Studio / MonoDevelop / Rider    #
+# ===================================== #
+[Ee]xportedObj/
+.vs/
+.vscode/
+.userprefs
+.idea/
+.rider/
+[Oo]bj/
+[Bb]in/
+[Dd]ebug [Bb]uild/
+[Ll]ogs/
+
+# ================= #
+# OS generated files #
+# ================= #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ================= #
+# User generated files #
+# ================= #
+/[Aa]ssets/[Aa]sset[Ss]tore[Tt]ools/
+
+# ================= #
+# IntelliJ generated files #
+# ================= #
+.idea/
+.idea/*
+
+# ================= #
+# Visual Studio Code generated files #
+# ================= #
+.vscode/*
