@@ -2,7 +2,7 @@
 
 This repository contains my assignments and work done for the course "Introduction to C# Programming and Unity" offered by the University of Colorado System on Coursera.
 
-![Unity Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.stickpng.com%2Fthumbs%2F62e131df7fe3599fdd46ecb3.png&tbnid=tc6T7yR0zTXOYM&vet=12ahUKEwiBt7bG9JuCAxU7UbgEHY28BjYQMygDegQIARB1..i&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Funity-new-logo&docid=UfN_BRaTtAaNYM&w=300&h=300&q=unity%20logo&hl=en&ved=2ahUKEwiBt7bG9JuCAxU7UbgEHY28BjYQMygDegQIARB1)
+![Unity Logo](https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg)
 
 ## Table of Contents
 - [Week 1](#week-1)
